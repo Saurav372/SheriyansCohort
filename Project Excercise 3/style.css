@@ -1,0 +1,9 @@
+h1 {
+    color: rgb(2, 21, 51);
+}
+ul>li {
+    list-style-type: none;
+}
+ul > li > a {
+    text-decoration: none;
+}
